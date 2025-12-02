@@ -1,0 +1,5 @@
+{
+  "name": "Career Recommendation System",
+  "description": "A web application that provides personalized career recommendations to students based on a quiz. It includes separate portals for students and administrators.",
+  "requestFramePermissions": []
+}
